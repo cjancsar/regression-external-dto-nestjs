@@ -52,7 +52,7 @@
     "tslint": "^5.20.0",
     "tslint-jest": "1.0.5",
     "typescript": "^3.6.3",
-    "validator": "12.0.0"
+    "validator": "13.7.0"
   },
   "jest": {
     "moduleFileExtensions": [
